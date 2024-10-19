@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Debug Homey App",
+        "program": "${workspaceFolder}/app.js",
+        "outFiles": ["${workspaceFolder}/**/*.js"],
+        "runtimeExecutable": "homey",
+        "runtimeArgs": ["app", "run"],
+        "console": "integratedTerminal",
+        "internalConsoleOptions": "neverOpen"
+      }
+    ]
+  }
