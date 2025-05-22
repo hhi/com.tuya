@@ -46,7 +46,7 @@ export const DEVICE_CATEGORIES = {
     AIR_CONDITIONER: 'kt',
     AIR_CONDITIONER_CONTROLLER: 'ktkzq',
     BOILER: 'bgl',
-    AURA2_HEATPUMP: 'znrb',
+    INTELLIGENT_HEAT_PUMP: 'znrb',
   },
   SMALL_HOME_APPLIANCES: {
     ROBOT_VACUUM: 'sd',
